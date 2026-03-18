@@ -1,9 +1,7 @@
 <h1 align="center">Hey there, I'm Sharan Patil 👋</h1>
-
 <p align="center">
   <em>Computer Science Student &nbsp;|&nbsp; Web Developer in the Making &nbsp;|&nbsp; Code. Learn. Repeat.</em>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sharanpatil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
@@ -11,7 +9,6 @@
 ---
 
 ### 🙋‍♂️ About Me
-
 - 🎓 I'm a **Computer Science student** passionate about building things for the web
 - 🌱 Currently learning **HTML, CSS, JavaScript** and exploring full-stack development
 - 💻 I love writing clean code in **Python**, **Java**, and **C/C++**
@@ -22,8 +19,21 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 🌐 My Portfolio
 
+<p align="center">
+  <a href="https://verdant-pony-cbf0d3.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-3d2b1a?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Built with HTML, CSS, JavaScript & EmailJS — fully responsive with a working contact form!</em>
+</p>
+
+---
+
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -39,12 +49,10 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharanpatil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanpatil&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharanpatil&theme=tokyonight&hide_border=true" width="55%" />
 </p>
@@ -52,7 +60,6 @@
 ---
 
 ### 🚀 What I'm Currently Working On
-
 - 🔨 Building personal web projects to strengthen my portfolio
 - 📚 Deep-diving into **Data Structures & Algorithms**
 - 🌐 Learning the fundamentals of **React.js**
@@ -60,17 +67,15 @@
 
 ---
 
-
----
-
-
 ### 📬 Connect With Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/sharan-patil123" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:sharanpatil630@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://verdant-pony-cbf0d3.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3d2b1a?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
