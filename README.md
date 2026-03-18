@@ -22,13 +22,12 @@
 ### 🌐 My Portfolio
 
 <p align="center">
-  <a href="https://verdant-pony-cbf0d3.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20View%20My%20Portfolio-3d2b1a?style=for-the-badge&logoColor=white" alt="Portfolio" />
+  <a href="https://sharan-works.netlify.app/#projects" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0e75b6?style=for-the-badge&logoColor=white" alt="Portfolio" />
   </a>
 </p>
-
 <p align="center">
-  <em>Built with HTML, CSS, JavaScript & EmailJS — fully responsive with a working contact form!</em>
+  <em>✨ Built with HTML, CSS, JavaScript & EmailJS — responsive design with working contact form</em>
 </p>
 
 ---
@@ -75,7 +74,7 @@
   <a href="mailto:sharanpatil630@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://verdant-pony-cbf0d3.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3d2b1a?style=for-the-badge&logo=netlify&logoColor=white" />
+  <a href="https://sharan-works.netlify.app/#projects" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" />
   </a>
 </p>
