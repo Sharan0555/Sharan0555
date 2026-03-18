@@ -60,16 +60,10 @@
 
 ---
 
-### 🎯 2025 Goals
-
-- [ ] Build and deploy 3 full web projects
-- [ ] Solve 100+ DSA problems on LeetCode
-- [ ] Make my first open source contribution
-- [ ] Land a web development internship
 
 ---
 
-### 📬 Connect With Me
+### 📬 Connect With 
 
 <p align="left">
   <a href="https://linkedin.com/in/sharanpatil" target="_blank">
