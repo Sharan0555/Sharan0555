@@ -1,45 +1,40 @@
 <h1 align="center">Hey there, I'm Sharan Patil 👋</h1>
+
 <p align="center">
-  <em>Computer Science Student &nbsp;|&nbsp; Web Developer in the Making &nbsp;|&nbsp; Code. Learn. Repeat.</em>
+  <em>CS Student &nbsp;·&nbsp; Web Developer in the Making &nbsp;·&nbsp; Code. Learn. Repeat.</em>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sharanpatil&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sharanpatil&label=Profile%20Views&color=0e75b6&style=flat" />
+  &nbsp;
+  <a href="https://sharan-works.netlify.app/#projects"><img src="https://img.shields.io/badge/🌐_Portfolio-0e75b6?style=flat" /></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sharan-patil123"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🙋‍♂️ About Me
-- 🎓 I'm a **Computer Science student** passionate about building things for the web
-- 🌱 Currently learning **HTML, CSS, JavaScript** and exploring full-stack development
-- 💻 I love writing clean code in **Python**, **Java**, and **C/C++**
-- 🎯 Goal: Land my first developer internship and contribute to open source
+
+- 🎓 **CS student** passionate about building things for the web — based in Bengaluru, India 🇮🇳
+- 💻 Writing clean code in **Python**, **Java**, and **C/C++** daily
+- 🌱 Currently learning **React.js** and going deep on **Data Structures & Algorithms**
+- 🎯 Goal: Land my first developer internship & contribute to open source
+- 📖 Avid reader — every great developer was first a great learner
 - ⚡ Fun fact: I debug best with lo-fi music playing in the background 🎵
-- 🌍 Based in **Bengaluru, India** — India's Silicon Valley!
-- 📖 Avid reader — I believe every great developer was first a great learner
-
----
-
-### 🌐 My Portfolio
-
-<p align="center">
-  <a href="https://sharan-works.netlify.app/#projects" target="_blank">
-    <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio-0e75b6?style=for-the-badge&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-<p align="center">
-  <em>✨ Built with HTML, CSS, JavaScript & EmailJS — responsive design with working contact form</em>
-</p>
 
 ---
 
 ### 🛠️ Tech Stack
-<p align="left">
+
+<p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
@@ -47,34 +42,19 @@
 
 ---
 
+### 🚀 What I'm Working On
+
+| Status | Project |
+|--------|---------|
+| 🔨 Building | Personal web projects to strengthen my portfolio |
+| 📚 Studying | Data Structures & Algorithms |
+| 🌐 Learning | React.js fundamentals |
+| 🤝 Seeking | Beginner-friendly open source projects to contribute to |
+
+---
+
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharanpatil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanpatil&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharanpatil&theme=tokyonight&hide_border=true" width="55%" />
-</p>
-
----
-
-### 🚀 What I'm Currently Working On
-- 🔨 Building personal web projects to strengthen my portfolio
-- 📚 Deep-diving into **Data Structures & Algorithms**
-- 🌐 Learning the fundamentals of **React.js**
-- 🤝 Looking to collaborate on beginner-friendly open source projects
-
----
-
-### 📬 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/sharan-patil123" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sharanpatil630@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://sharan-works.netlify.app/#projects" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" />
-  </a>
-</p>
+  <img
