@@ -57,4 +57,28 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sharanpatil&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharanpatil&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharanpatil&theme=tokyonight&hide_border=true" width="55%" />
+</p>
+
+---
+
+### 📬 Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/sharan-patil123">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sharanpatil630@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://sharan-works.netlify.app/#projects">
+    <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=netlify&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center"><em>"Every great developer was first a great learner."</em></p>
