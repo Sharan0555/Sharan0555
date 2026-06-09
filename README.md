@@ -13,7 +13,7 @@
 </tr>
 <tr>
 <td><b>Current Role:</b></td>
-<td>Data Analyst Intern at <a href="https://www.pentagon.space/">Pentagon Space</a>, Bengaluru 🇮🇳</td>
+<td>Python Full Stack Intern at <a href="https://www.pentagon.space/">Pentagon Space</a>, Bengaluru 🇮🇳</td>
 </tr>
 <tr>
 <td><b>Profile:</b></td>
@@ -165,7 +165,7 @@ Clean, functional interface for querying current and predicted weather condition
 - **Portfolio Website** — Personal site live on Netlify
 - **Weather Prediction** — Python-based forecasting tool
 - **Smart Timetable** — TypeScript scheduling application
-- **Data Internship** — Data Analyst at Pentagon Space, Bengaluru
+- **Internship** — Python Full Stack Intern at Pentagon Space, Bengaluru
 
 **[Visit My GitHub Profile →](https://github.com/Sharan0555)**
 
@@ -177,7 +177,7 @@ Clean, functional interface for querying current and predicted weather condition
 
 <div align="center">
 
-- 📊 Applying data analytics skills at Pentagon Space as a Data Analyst Intern
+- 🚀 Building full-stack Python web applications at Pentagon Space as a Python Full Stack Intern
 - 📚 Deepening knowledge in Data Structures & Algorithms
 - 🌐 Building full-stack projects with React & Next.js
 - 🤝 Looking for beginner-friendly open source projects to contribute to
